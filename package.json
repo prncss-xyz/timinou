@@ -1,0 +1,16 @@
+{
+  "name": "timinou",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juliette Lamarche <juliette.lamarche@princesse.xyz> (https://github.com/prncss-xyz/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^10.0.0"
+  }
+}
